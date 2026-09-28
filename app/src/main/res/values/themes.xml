@@ -1,0 +1,4 @@
+<resources>
+    <!-- Tema gelap tanpa ActionBar, cocok dengan latar #0f172a -->
+    <style name="Theme.Hangman" parent="Theme.MaterialComponents.NoActionBar" />
+</resources>

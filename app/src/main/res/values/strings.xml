@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="judul_permainan">Hangman</string>
+    <string name="hint_tebak">Huruf</string>
+    <string name="btn_tebak">Tebak</string>
+    <string name="btn_main_lagi">Main Lagi</string>
+    <string name="btn_mulai">Mulai Bermain</string>
+    <string name="menang">Kamu Menang!</string>
+    <string name="kalah">Kamu Kalah</string>
+    <string name="gambar_gantungan">Gambar tiang gantungan</string>
+
+    <!-- daftar kata rahasia: huruf besar, tanpa spasi -->
+    <string-array name="daftar_kata">
+        <item>JOKOWI3PERIODE</item>
+        <item>HIDUPJOKOWI</item>
+        <item>19JTLAPANGANPEKERJAAN</item>
+        <item>HIDUP</item>
+        <item>JOKOWI</item>
+        <item>ANTEKANTEKASING</item>
+    </string-array>
+
+    <!-- >>> [LATIHAN 3: PETUNJUK PADA OVERLAY MULAI] -->
+    <string name="petunjuk_awal">Petunjuk: semua kata berkaitan dengan POLITIK.</string>
+    <!-- <<< [LATIHAN 3] -->
+
+    <!-- >>> [LATIHAN 5: OVERLAY KESULITAN] -->
+    <string name="judul_kesulitan">Pilih Kesulitan</string>
+    <string name="btn_mudah">Mudah (8 nyawa)</string>
+    <string name="btn_sedang">Sedang (6 nyawa)</string>
+    <string name="btn_sulit">Sulit (4 nyawa)</string>
+    <!-- <<< [LATIHAN 5] -->
+</resources>
